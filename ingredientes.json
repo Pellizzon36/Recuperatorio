@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "nombre": "Harina",
+    "cantidad": 600,
+    "unidad": "gramos"
+  },
+  {
+    "id": 2,
+    "nombre": "Azúcar",
+    "cantidad": 250,
+    "unidad": "gramos"
+  },
+  {
+    "id": 3,
+    "nombre": "Huevos",
+    "cantidad": 4,
+    "unidad": "unidades"
+  },
+  {
+    "id": 4,
+    "nombre": "Mantequilla",
+    "cantidad": 200,
+    "unidad": "gramos"
+  },
+  {
+    "id": 5,
+    "nombre": "Leche",
+    "cantidad": 300,
+    "unidad": "ml"
+  },
+  {
+    "id": 6,
+    "nombre": "Sal",
+    "cantidad": 10,
+    "unidad": "gramos"
+  },
+  {
+    "id": 7,
+    "nombre": "Levadura",
+    "cantidad": 15,
+    "unidad": "gramos"
+  },
+  {
+    "id": 8,
+    "nombre": "Chocolate",
+    "cantidad": 200,
+    "unidad": "gramos"
+  },
+  {
+    "id": 9,
+    "nombre": "Aceite",
+    "cantidad": 30,
+    "unidad": "ml"
+  },
+  {
+    "id": 10,
+    "nombre": "Vainilla",
+    "cantidad": 5,
+    "unidad": "ml"
+  },
+  {
+    "id": 11,
+    "nombre": "Mermelada",
+    "cantidad": 500,
+    "unidad": "gramos"
+  }
+]
